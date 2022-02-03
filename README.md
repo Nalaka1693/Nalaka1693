@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nalaka
-- 👀 I’m interested in accelerated systems, heterogeneous computing 
+- 👀 I’m interested in accelerated systems, heterogeneous computing and parallel computing
 - 🌱 I’m currently learning GPU
 - 💞️ I’m looking to collaborate on CUDA programming
 - 📫 How to reach me nalaka.r@eng.pdn.ac.lk
